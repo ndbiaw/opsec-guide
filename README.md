@@ -21,7 +21,7 @@ Hướng dẫn thực hành căn bản về bảo mật thông tin cá nhân/dan
  13. Thông tin nhận dạng sinh trắc học như dấu vân tay, khuôn mặt, giọng nói
  14. Những thông tin có thể dùng để nhận dạng cá nhân như dây chuyền, kiểu tóc, hình xăm
  15. Số tài khoản ngân hàng, số tài khoản thẻ tín dụng, ngày hết hạn và mã bảo mật
- 16. Biệt danh được sử dụng trong cuộc sống hàng ngày, bao gồm tên khác với tên 
+ 16. Biệt danh được sử dụng trong cuộc sống hàng ngày, bao gồm tên khác với tên thật
  17. Địa chỉ email chính, số điện thoại chính chủ
  18. Giới tính, chủng tộc, xu hướng tình dục
  19. Mã ZIP, Thành Phố, Quốc gia cư trú
