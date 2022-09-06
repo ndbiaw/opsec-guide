@@ -54,5 +54,5 @@ Hướng dẫn thực hành căn bản về bảo mật thông tin cá nhân/dan
 	- Sử dụng các trình tạo chuỗi kí tự ngẫu nhiên, ví dụ như [Random.org String Generator](https://www.random.org/strings/?num=9&len=12&digits=on&upperalpha=on&loweralpha=on&unique=on&format=html&rnd=new)
 8. Xoá các dữ liệu có thể nhận dạng trong các tệp có thể chia sẻ, đặc biệt là tệp hình ảnh thường chứa dữ liệu EXIF bao gồm vị trí, tên thiết bị, thời gian chụp. Khuyến nghị sử dụng các chương trình xoá EXIF ngoại tuyến và mã nguồn mở như [EXIF Cleaner](https://github.com/szTheory/exifcleaner/releases)
 9. Sử dụng các trình duyệt tập trung vào bảo mật, không sử dụng trình duyệt ở chế độ toàn màn hình. Khuyến nghị sử dụng trình duyệt [FireFox](https://www.mozilla.org/vi/firefox/new/)
-10. Không sử dụng viết tắt/từ nóng. Văn phong cũng có thể là thứ để nhận dạng bạn.
+10. Không sử dụng viết tắt/từ lóng. Văn phong cũng có thể là thứ để nhận dạng bạn.
 11. Sử dụng sim rác và hòm thư thoại để giao tiếp nếu cần. Thiết bị nên được đặt ở một nơi ngẫu nhiên khác với thành phố bạn sinh sống, ví dụ như một cột điện ngẫu nhiên nào đó. Sử dụng các ứng dụng đồng bộ hoá để truy cập thông tin. Hầu hết các nhà mạng đều cung cấp chức năng nạp tiền trực tuyến nên có thể duy trì thiết bị trong một thời gian dài.
