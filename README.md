@@ -44,7 +44,7 @@ Hướng dẫn thực hành căn bản về bảo mật thông tin cá nhân/dan
 	  - Lưu trữ mật khẩu trong một thiết bị cứng được mã hoá, khuyến nghị các sản phẩm của: [OnlyKey](https://onlykey.io/collections/all)
 	  - Lưu trữ mật khẩu trong một tệp được mã hoá. Có thể sử dụng bất kì công cụ mã hoá nào mà bạn coi là an toàn.
  3. Sử dụng xác thực hai lớp cho tất cả các dịch vụ. Không sử dụng ứng dụng xác thực hai lớp có thể sao lưu trực tuyến. Khuyến nghị như sau:
-	 - Lưu trữ mã xác thực hai lớp trên các thiết bị cứng được mã hoá, khuyến nghị các sản phẩm của:[Yubico](https://www.yubico.com/products/)
+	 - Lưu trữ mã xác thực hai lớp trên các thiết bị cứng được mã hoá, khuyến nghị các sản phẩm của: [Yubico](https://www.yubico.com/products/)
 	 - Sử dụng ứng dụng xác thực hai lớp mã nguồn mở và không cần đăng nhập, không thể sao lưu trực tuyến, khuyến nghị sử dụng Google Authenticator, đường dẫn tải xuống: [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) / [iOS](https://apps.apple.com/app/google-authenticator/id388497605)
 4. Sử dụng các hệ điều hành mã nguồn mở. Ví dụ như Android cho các thiết bị di động và Linux cho các thiết bị máy tính.
 5. Không đăng nhập và sử dụng các dịch vụ của các công ty công nghệ lớn như Google, Facebook khi chưa thực hiện các biện pháp cách ly thông tin. Đặc biệt không đăng nhập tài khoản Google nếu sử dụng các thiết bị Android.
