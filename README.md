@@ -2,6 +2,8 @@
 # opsec-guide
 
 Hướng dẫn thực hành căn bản về bảo mật thông tin cá nhân/danh tính trên không gian mạng khỏi Trinh sát phòng, chống tội phạm sử dụng công nghệ cao.
+Lưu ý: dành cho bạn nào thắc mắc, mình đã không thực hiện OPSEC ngay từ đầu đối với tài khoản Github này và các tài khoản mạng xã hội liên quan đến tài khoản Github này vì cơ bản hoạt động ở những tài khoản này không có gì phải che giấu.
+
 # Về việc chia sẻ thông tin trên mạng
 
 ## Thông tin tuyệt đối không được chia sẻ
